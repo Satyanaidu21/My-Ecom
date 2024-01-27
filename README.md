@@ -9,7 +9,7 @@ Welcome to our exciting ecommerce venture! Our project, "Demo  Ecommerce Shoppin
 # Company Project Details
 1. Project Demo URL: [https://aiwebappazure.azurewebsites.net/]
 2. Demo Video URL: [https://www.youtube.com/watch?v=7cpafzJJKlg]
-3. Github Repository URL: [https://github.com/AnkeetaGupta/flask-ai-translation.git]
+3. Github Repository URL: [https://github.com/Satyanaidu21/My-Ecom]
 4. Industry: E-Commerce
 # Azure Services Used
 **Core Azure Service:**
