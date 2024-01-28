@@ -7,7 +7,7 @@
 # INDRODUCTION:
 Welcome to our exciting ecommerce venture! Our project, "Demo  Ecommerce Shopping," is designed to redefine your online shopping experience. With a user-friendly interface, a vast array of products, and seamless navigation, we aim to make your shopping journey effortless and enjoyable. Stay tuned for a hassle-free and delightful way to explore and purchase your favirote e items!
 # Company Project Details
-1. Project Demo URL: [https://aiwebappazure.azurewebsites.net/]
+1. Project Demo URL: [https://shope.z13.web.core.windows.net/]
 2. Demo Video URL: [https://www.youtube.com/watch?v=7cpafzJJKlg]
 3. Github Repository URL: [https://github.com/Satyanaidu21/My-Ecom]
 4. Industry: E-Commerce
